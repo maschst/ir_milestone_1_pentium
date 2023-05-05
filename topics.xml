@@ -1,0 +1,17 @@
+<topics>
+    <topic number = "1">
+        <title>BM25</title>
+        <description>How does BM25 work?</description>
+        <narrative>Since BM25 is a very popular algorithm and I only used idf, I want to know the specific differences between the two.</narrative>
+    </topic>
+    <topic number = "2">
+		<title> What makes Natural Language Processing natural? </title>
+		<description>What is Natural Language Processing and why is it called natural?</description>
+		<narrative>Natural Language Processing is a model to process data regarding human language. It's called natural because you are not restricted to rules how the data produced by humans should look like.</narrative>
+    </topic>
+	    <topic number = "3">
+        <title>principle of a information retrieval indexing</title>
+        <description>How does indexing work in information retrieval?</description>
+        <narrative>Is the process of identifying and describing documents. These should then be classified for later analysis.</narrative>
+    </topic>
+</topics>
